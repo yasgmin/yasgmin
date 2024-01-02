@@ -7,7 +7,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=yasgmin&theme=radical&mode=weekly" />
-<p><img widht=55% margin-top=10px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasgmin&show_icons=true&theme=radical&title_color=ff38db&text_color=ffffff&locale=en&layout=compact" alt="yasgmin" /></p>
+<p><img widht=55% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasgmin&show_icons=true&theme=radical&title_color=ff38db&text_color=ffffff&locale=en&layout=compact" alt="yasgmin" /></p>
  </div>
  
  &nbsp;
