@@ -8,7 +8,7 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=yasgmin&theme=radical&mode=weekly" />
 <p/>
-<p><img width=40% style="margin-top:10px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasgmin&show_icons=true&theme=radical&title_color=ff38db&text_color=ffffff&locale=en&layout=compact" alt="yasgmin" /></p>
+<p><img width=40% style="margin-top:10px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasgmin&show_icons=true&theme=radical&title_color=ff3898&text_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="yasgmin" /></p>
  </div>
  
  &nbsp;
