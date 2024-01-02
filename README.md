@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/yasgmin/yasgmin/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img src='https://cdn.discordapp.com/attachments/936309416381263912/1120874207530733578/Barrinhas.gif?ex=659de5f3&is=658b70f3&hm=7f0c8f88c71d1fb4fdc6f716fecf491ab7c2a0f9738e62cc6fd7214780e8cc2f&'/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ learning about everything! <br><br> Hello! I'm Yasmin Gonçalves, and I'm passionate about growing alongside a company that values innovation and continuous learning. With experience in programming languages such as Javascript and Python, as well as a basic understanding of Java and Kotlin, I'm enthusiastic about tackling new challenges and expanding my skill set. My dedication to learning and adaptability make me a valuable asset to any team. Let's connect and explore opportunities for collaboration and growth together!</p>&nbsp;
