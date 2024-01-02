@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width=100% src='https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif' />
+<img width=100% src='https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0038.gif' />
 
 
 <p align="center">I ❤️ learning about everything! <br><br> Hello! I'm Yasmin Gonçalves, and I'm passionate about growing alongside a company that values innovation and continuous learning. With experience in programming languages such as Javascript and Python, as well as a basic understanding of Java and Kotlin, I'm enthusiastic about tackling new challenges and expanding my skill set. My dedication to learning and adaptability make me a valuable asset to any team. Let's connect and explore opportunities for collaboration and growth together!</p>&nbsp;
