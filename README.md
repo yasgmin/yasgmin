@@ -7,7 +7,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=yasgmin&theme=radical&mode=weekly" />
-<p><img widht=55% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasgmin&show_icons=true&theme=radical&title_color=ff38db&text_color=ffffff&locale=en&layout=compact" alt="yasgmin" /></p>
+<p><img width=55% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasgmin&show_icons=true&theme=radical&title_color=ff38db&text_color=ffffff&locale=en&layout=compact" alt="yasgmin" /></p>
  </div>
  
  &nbsp;
@@ -25,7 +25,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white);
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://i.pinimg.com/originals/57/2d/05/572d05fcedda40283afd72fe6245737c.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
