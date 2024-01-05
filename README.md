@@ -70,6 +70,8 @@
   
 <img width=100% src='https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0147.gif' />
 
+Thanks!
+
 
 
 <!--
